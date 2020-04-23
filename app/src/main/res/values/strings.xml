@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="hint">Add new item to list view</string>
+    <string name="add_button">Add</string>
+</resources>

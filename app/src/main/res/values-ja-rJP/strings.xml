@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" リストを行う"</string>
+    <string name="hint">" ヒント"</string>
+    <string name="add_button">" 追加"</string>
+</resources>
