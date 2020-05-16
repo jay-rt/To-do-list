@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 b.add(new_item_edit_text.getText().toString());
+                new_item_edit_text.setText("");
                 c.notifyDataSetChanged();
             }
         });
